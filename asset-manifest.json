@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Maturski/static/css/main.943b4d73.chunk.css",
+    "main.js": "/Maturski/static/js/main.d7a3cc1e.chunk.js",
+    "main.js.map": "/Maturski/static/js/main.d7a3cc1e.chunk.js.map",
+    "runtime-main.js": "/Maturski/static/js/runtime-main.d90a3586.js",
+    "runtime-main.js.map": "/Maturski/static/js/runtime-main.d90a3586.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Maturski/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.704d722b.chunk.js": "/Maturski/static/js/2.704d722b.chunk.js",
+    "static/js/2.704d722b.chunk.js.map": "/Maturski/static/js/2.704d722b.chunk.js.map",
+    "index.html": "/Maturski/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Maturski/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.943b4d73.chunk.css.map": "/Maturski/static/css/main.943b4d73.chunk.css.map",
+    "static/js/2.704d722b.chunk.js.LICENSE.txt": "/Maturski/static/js/2.704d722b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d90a3586.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.704d722b.chunk.js",
+    "static/css/main.943b4d73.chunk.css",
+    "static/js/main.d7a3cc1e.chunk.js"
+  ]
+}
